@@ -1,0 +1,23 @@
+{
+  "name": "react-hedberg",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-am-kenny/react-hedberg.git"
+  },
+  "author": "kenny mcgarvey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/i-am-kenny/react-hedberg/issues"
+  },
+  "homepage": "https://github.com/i-am-kenny/react-hedberg#readme",
+  "dependencies": {
+    "hedberg": "^1.0.4",
+    "react": "^0.14.7"
+  }
+}
